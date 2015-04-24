@@ -1,0 +1,22 @@
+.adsense_728x90,
+.adsense_300x250 {
+  clear: both;
+  display: block;
+}
+
+.adsense_728x90 img,
+.adsense_300x250 img {
+  background-image: url("pattern.png");
+  background-color: rgba(102,102,102,.2);
+  background-repeat: repeat;
+  background-position: 0 0;
+  padding: 10px;
+	display: table;
+	margin: 0 auto;
+}
+
+.widget .adsense_728x90,
+.widget .adsense_300x250 {
+	background: transparent;
+	padding: 0;
+}
